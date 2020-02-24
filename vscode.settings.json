@@ -1,0 +1,11 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.autoReveal": false,
+    "editor.renderWhitespace": "all",
+    "files.trimTrailingWhitespace": true,
+    "workbench.tree.renderIndentGuides": "always",
+    "window.zoomLevel": 0,
+    "window.title": "${dirty}${activeEditorLong}${separator}${rootName}${separator}${appName}",
+    "editor.minimap.maxColumn": 80,
+    "window.restoreWindows": "none"
+}
