@@ -9,6 +9,5 @@
     "editor.minimap.maxColumn": 80,
     "window.restoreWindows": "none",
     "editor.minimap.renderCharacters": false,
-    "workbench.editor.tabSizing": "shrink",
-    "window.openFilesInNewWindow": "on"
+    "workbench.editor.tabSizing": "shrink"
 }
