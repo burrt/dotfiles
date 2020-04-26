@@ -10,5 +10,6 @@
     "window.restoreWindows": "none",
     "editor.minimap.renderCharacters": false,
     "workbench.editor.tabSizing": "shrink",
-    "editor.rulers": [80,120]
+    "editor.rulers": [80,120],
+    "explorer.openEditors.visible": 0
 }
