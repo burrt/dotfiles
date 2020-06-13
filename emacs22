@@ -20,7 +20,6 @@
  ;; If there is more than one, they won't work right.
  )
 
-
 ;; indents 4 tabs properly?
 (setq-default indent-tabs-mode nil)
 (setq-default tab-width 4)
@@ -76,7 +75,7 @@
 
 ;; some redo hotkeys
 ;; (define-key global-map (kbd "C-/") 'undo)
-(define-key global-map (kbd "C-x C-/") 'redo)
+;; (define-key global-map (kbd "C-x C-/") 'redo)
 
 ;; scroll one line at a time (less "jumpy" than defaults)
 ;; one line at a time
