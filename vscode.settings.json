@@ -1,5 +1,6 @@
 {
     "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
     "explorer.autoReveal": false,
     "editor.renderWhitespace": "all",
     "files.trimTrailingWhitespace": true,
