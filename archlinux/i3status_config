@@ -5,6 +5,7 @@
 # The following line should contain a sharp s:
 # ß
 # If the above line is not correctly displayed, fix your editor first!
+# sudo apt-get install fonts-font-awesome
 
 #setcap cap_net_admin=ep $(which i3status)
 
@@ -17,9 +18,9 @@ general {
 # order += "run_watch DHCP"
 # order += "run_watch VPN"
 order += "wireless _first_"
- order += "ethernet _first_"
+order += "ethernet _first_"
 order += "volume master"
-order += "battery 0"
+# order += "battery 0"
 order += "cpu_usage"
 order += "cpu_temperature 0"
 # order += "load"
