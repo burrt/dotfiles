@@ -12,5 +12,6 @@
     "editor.minimap.renderCharacters": false,
     "workbench.editor.tabSizing": "shrink",
     "editor.rulers": [80,120],
-    "explorer.openEditors.visible": 0
+    "explorer.openEditors.visible": 0,
+    "window.openFilesInNewWindow": "on"
 }
